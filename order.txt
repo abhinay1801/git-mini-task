@@ -1,3 +1,5 @@
 Phone	                Price
 Poco M6 5G	            ₹9,499
 Samsung Galaxy A06 5G	₹10,199
+IQOO Neo 7 Pro          ₹34,000
+Realme GT 6T            ₹29,000
